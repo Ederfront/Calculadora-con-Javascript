@@ -1,0 +1,15 @@
+.calculadora {
+    display: block;margin: auto;padding: 20px;
+    background-color: rgb(63, 18, 18);
+    width: 350px;height: 500px;border-radius: 30px; font-family: 'Times New Roman', Times, serif;
+}
+.calculadora td button{
+    display: block;width: 70px;height: 70px;font-size: 25px;background-color: rgb(28, 100, 21);
+}
+
+#resultado{
+    display: block;text-align: center;font-size: 40px;margin-bottom: 50px;width: 300px;height: 100px;line-height: 100px;
+    background-color: burlywood;border-radius: 25px;overflow-y: scroll;;;}
+
+
+   
